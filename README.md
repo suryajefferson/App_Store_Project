@@ -1,7 +1,7 @@
 ## Introduction
 The mobile app market is a constantly evolving space where new ideas, rivalry, and user demands converge to influence the fate of numerous applications. To succeed as app developers we must know the the hidden patterns and trends that influence the app market. Each question sheds light on a different aspect of the complex realm of app creation which reveals identifying unexplored opportunities, comprehending user preferences, and refining strategies to create app
 
-🔍 SQL queries? Check them out here: 
+🔍 SQL queries? Check them out here: : [App_Project ](/App_Project/)
 ## Background
 With a passion for technology and a keen eye for market trends, We delves deep into the data-rich realm of app analytics. Through various SQL queries and rigorous analysis of the App Store's vast repository of applications, they uncover valuable insights that illuminate the path forward.
 
